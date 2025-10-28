@@ -10,3 +10,6 @@ export default function Footer() {
     );
   
 };
+<footer>
+    <p>&copy; 2025 Game Tech - Desenvolvido com 💖 por Estefany</p>
+  </footer>
